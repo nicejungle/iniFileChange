@@ -1,1 +1,0 @@
-C:\Users\lin\source\repos\iniRead\iniRead\iniRead.csproj;x86
